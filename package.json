@@ -1,0 +1,21 @@
+{
+  "name": "hackathon",
+  "version": "0.1.0",
+  "description": "hackathon web server",
+  "main": "gather.js",
+  "dependencies": [
+    "underscore",
+    "express",
+    "xmlhttprequest",
+    "echonest",
+    "fermata",
+    "async",
+    "apricot",
+    "feedparser",
+    "jQuery",
+    "jsdom",
+    "twit"
+  ],
+  "author": "The Hackathon Gang <foo@bar.com>",
+  "license": "DO_WHAT_THOU_WILL"
+}
